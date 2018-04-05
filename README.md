@@ -2,7 +2,7 @@
 
 These are the slides from my talk "Dolla Dolla Bills: Cache-Friendly Rust" given at Indy.rs on April 5, 2018.
 
-# Resources
+## Resources
 
 The last few slides contain links to several resources where you can learn more about CPU caches and how to write code that effectively utilizes CPU cache effects. For convenience, here is that list of resources.
 
@@ -13,3 +13,7 @@ The last few slides contain links to several resources where you can learn more 
 - [code::dive conference 2014 - Scott Meyers: Cpu Caches and Why You Care](https://www.youtube.com/watch?v=WDIkqP4JbkE)
     - [Handouts](https://www.aristeia.com/TalkNotes/codedive-CPUCachesHandouts.pdf)
     - This handout also contains several slides of additional resources at the end
+
+## Slides
+
+The slides were made with [Deckset](https://www.decksetapp.com/).
